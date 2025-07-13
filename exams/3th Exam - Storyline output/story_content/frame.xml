@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="آزمون جلسه سوم آموزش OneNote" />
+              <option name="title_text" value="3th Exam" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -80,7 +80,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1284,12 +1284,38 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6WtuYbONgSU" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6WtuYbONgSU" displaytext="سطح یک" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6WtuYbONgSU.6heIvQ3CnIE" displaytext="آزمون جلسه سوم" expand="false" type="slide" />
-            <slidelink slideid="_player.6WtuYbONgSU.6TmtqOZCFeh" displaytext="حمید قصد دارد یادداشتی را به دفترچه خود اضافه نمایید، او را راهنمایی کنید که برای وارد کردن یادداشت در صفحه، چه کاری باید انجام بدهد؟" expand="false" type="slide" />
-            <slidelink slideid="_player.6WtuYbONgSU.5jQGbAV1MAn" displaytext="قصد دارید تصویر طراحی شده از کارگاه شرکتی که در آن استخدام شده‌اید را در دفترچه خود نگهداری کنید؛ برای وارد ساختن تصویر به دفترچه، به ترتیب چه مراحلی را می‌بایست طی کنید؟" expand="false" type="slide" />
-            <slidelink slideid="_player.6WtuYbONgSU.6P92RvFnr3A" displaytext="معمولا برای مدیریت و ساماندهی یادداشت‌های پراکنده‌ی موجود در دفترچه خود، چه ابزار و روش‌هایی را به‌کار می‌برید؟" expand="false" type="slide" />
+            <slidelink slideid="_player.6WtuYbONgSU.5goWB9qlyV0" displaytext="سطح يک" expand="false" type="slide" />
+            <slidelink slideid="_player.62JAbbClh0d.6TmtqOZCFeh" displaytext="حمید قصد دارد یادداشتی را به دفترچه خود اضافه نمایید، او را راهنمایی کنید که برای وارد کردن یادداشت در صفحه، چه کاری باید انجام بدهد؟" expand="false" type="slide" />
+            <slidelink slideid="_player.6WtuYbONgSU.6F2BaYCPREt" displaytext="در OneNote می‌توان متن را مستقیما در هر نقطه از صفحه تایپ کرد." expand="false" type="slide" />
+            <slidelink slideid="_player.6WtuYbONgSU.5mhO6xugZaA" displaytext="برای ایجاد یک یادداشت جدید در صفحه، کافیست با کلیک روی صفحه و شروع ……..، یادداشت خود را وارد کنیم" expand="false" type="slide" />
+            <slidelink slideid="_player.62JAbbClh0d.5jQGbAV1MAn" displaytext="قصد دارید تصویر طراحی شده از کارگاه شرکتی که در آن استخدام شده‌اید را در دفترچه خود نگهداری کنید؛ برای وارد ساختن تصویر به دفترچه، به ترتیب چه مراحلی را می‌بایست طی کنید؟" expand="false" type="slide" />
+            <slidelink slideid="_player.62JAbbClh0d.6P92RvFnr3A" displaytext="معمولا برای مدیریت و ساماندهی یادداشت‌های پراکنده‌ی موجود در دفترچه خود، چه ابزار و روش‌هایی را به‌کار می‌برید؟" expand="false" type="slide" />
+            <slidelink slideid="_player.6WtuYbONgSU.5udkLos4wT4" displaytext="کدام‌یک از گزینه‌های زیر برای افزودن تصویر به یادداشت در OneNote استفاده می‌شود؟" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Bml4to3OTc" displaytext="سطح دو" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Bml4to3OTc.6bjaRmTpIBk" displaytext="سطح دو" expand="false" type="slide" />
+            <slidelink slideid="_player.6Bml4to3OTc.5mSTYSdB9Xf" displaytext="عبارات مرتبط را به یکدیگر متصل کنید" expand="false" type="slide" />
+            <slidelink slideid="_player.6Bml4to3OTc.5aL1iYmFEzV" displaytext="در OneNote برای مدیریت اطلاعات، چه کارهایی می‌توان انجام داد؟" expand="false" type="slide" />
+            <slidelink slideid="_player.6Bml4to3OTc.6noBIPmPeFF" displaytext="برای جابه‌جا کردن یک یادداشت از یک بخش به بخش دیگر، باید ابتدا چه‌کاری انجام دهیم؟" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5h35bmQs2Ue" displaytext="سطح سه" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5h35bmQs2Ue.62YJfxbAO12" displaytext="سطح سه" expand="false" type="slide" />
+            <slidelink slideid="_player.5h35bmQs2Ue.5yPSbUOXRTr" displaytext="مراحل وارد کردن عکس در OneNote را به‌ترتیب صحیح بچینید." expand="false" type="slide" />
+            <slidelink slideid="_player.5h35bmQs2Ue.5vSZiOM6BQw" displaytext="عبارات مرتبط را به یکدیگر متصل کنید" expand="false" type="slide" />
+            <slidelink slideid="_player.5h35bmQs2Ue.6YoLawVBclN" displaytext="برای مدیریت بهتر یادداشت‌ها در OneNote، می‌توان از ویژگی ………. برای نشانه‌گذاری موارد مهم یا قابل پیگیری استفاده کرد." expand="false" type="slide" />
+            <slidelink slideid="_player.5h35bmQs2Ue.6lz5Er6Hcgr" displaytext="در OneNote نمی‌توان تصاویر واردشده را جابجا یا تغییر اندازه داد." expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.62JAbbClh0d" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.62JAbbClh0d.6aLbwzUyafe" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
